@@ -1,0 +1,23 @@
+{
+  "name": "modern-cafe-menu",
+  "version": "1.0.0",
+  "description": "A modern, mobile-friendly restaurant menu webpage",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser'",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "restaurant",
+    "menu",
+    "cafe",
+    "responsive",
+    "mobile-friendly"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/modern-cafe-menu"
+  }
+}
